@@ -1,11 +1,7 @@
-\# 🪄 Sorting Hat - Codédex Exercise
+Chapter 1 - First Repo | Capítulo 1 - Primeiro Repositório
+ ---
 
-
-
-\[English](#english) | \[Português](#português)
-
-
-
+[English](#-english) | [Português](#-português)
 ---
 
 
@@ -14,19 +10,20 @@
 
 
 
-This is a simple \*\*Python\*\* project developed for educational purposes.
+This repository was created exclusively for learning purposes, following the Codédex course. The goal was to understand how GitHub works in practice.
 
 
 
-\### 🎯 Goal
+\## 🎯 Goal
 
-This script was created to complete a practical exercise from the \*\*Git \& GitHub\*\* course on the \[Codédex](https://www.codedex.io/) platform.
+* Learn the basic Git workflow (add, commit, push).
+* Structure a clean and organized repository.
 
 
+\## 📝 Tech
 
-\### 📝 Description
-
-The code simulates the Harry Potter Sorting Hat by asking the user questions via terminal and determining their Hogwarts house based on their answers.
+* Git & GitHub
+* Python (Hello World)
 
 
 
@@ -38,25 +35,18 @@ The code simulates the Harry Potter Sorting Hat by asking the user questions via
 
 
 
-Este é um projeto simples em \*\*Python\*\* desenvolvido para fins educacionais.
+Este repositório foi criado exclusivamente para fins de aprendizado, seguindo o curso da Codédex. O objetivo foi entender como o GitHub funciona na prática.
+
+
+\## 🎯 Objetivo
+
+* Aprender o fluxo básico do Git (add, commit, push).
+* Estruturar um repositório limpo e organizado.
 
 
 
-\### 🎯 Objetivo
+\## 📝 Tech
 
-O script foi criado para concluir um exercício prático do curso de \*\*Git e GitHub\*\* da plataforma \[Codédex](https://www.codedex.io/).
-
-
-
-\### 📝 Descrição
-
-O código simula o Chapéu Seletor de Harry Potter, fazendo perguntas ao usuário via terminal e determinando sua casa de Hogwarts com base na pontuação das respostas.
-
-🛠️ O que mudou aqui?
-
-Links no topo: O \[Texto](#id) cria um link que "pula" para qualquer lugar da página que tenha aquele ID correspondente.
-
-
-
-Tags HTML <h2 id="...">: Usei um pouquinho de HTML para definir os IDs de destino. Assim, quando alguém clica em "Português", a página rola sozinha para a seção em PT-BR.
+* Git & GitHub
+* Python (Hello World)
 
